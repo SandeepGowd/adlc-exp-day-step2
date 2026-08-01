@@ -1,3 +1,4 @@
+Spec
 **📝 Business Intent Title:** Real-Time Currency Conversion & Audit Trail
 
 **💡 Business Idea:** Treasury operations teams at our enterprise customers
